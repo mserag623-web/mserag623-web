@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohamed Serag 👋
 
-<!--
-**mserag623-web/mserag623-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 ASP.NET Core Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Passionate about Backend Development
+- Currently learning ASP.NET Core MVC & Web API
+- Interested in Database Design and Software Engineering
+
+## Skills
+- C#
+- ASP.NET Core MVC
+- Web API
+- SQL Server
+- Entity Framework Core
+- OOP & SOLID
+- Git & GitHub
+- HTML & CSS
+
+## Projects
+- Voice-Activated Security System
+- Student Management System
+- ASP.NET Core MVC Web Application
+
+## Contact
+📧 mserag623@gmail.com
+
+🔗 LinkedIn:
+www.linkedin.com/in/mohamed-serag-ab33b130a
